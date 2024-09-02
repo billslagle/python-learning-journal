@@ -9,5 +9,6 @@ Get comfortable with traditional data structures using Python.
 Augment with chatGPT as my coding buddy.
 
 # My First Python Program
+``` python
 message = "Hello, World!"  
 print(message)
